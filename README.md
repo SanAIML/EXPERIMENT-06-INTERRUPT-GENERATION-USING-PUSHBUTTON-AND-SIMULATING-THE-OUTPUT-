@@ -115,9 +115,11 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 
 ## Output screen shots of proteus  :
-<img width="1087" height="769" alt="image" src="https://github.com/user-attachments/assets/9d5043b4-5af3-4a4f-97e8-24eaab96c03f" />
 
-<img width="1071" height="744" alt="image" src="https://github.com/user-attachments/assets/b03acb51-6d2a-4a42-8aff-0db711513768" />
+<img width="1361" height="909" alt="image" src="https://github.com/user-attachments/assets/3476e06b-5057-467f-8dce-96861ad7deaa" />
+
+
+<img width="1370" height="915" alt="image" src="https://github.com/user-attachments/assets/f3c94333-6762-4622-ab01-951d098c5c2a" />
 
 
  
