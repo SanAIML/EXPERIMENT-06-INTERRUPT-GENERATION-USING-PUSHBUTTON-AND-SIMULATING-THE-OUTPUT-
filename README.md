@@ -125,7 +125,9 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- <img width="916" height="642" alt="image" src="https://github.com/user-attachments/assets/e5793a23-b618-495e-8492-cc14277a6c47" />
+
+ <img width="1095" height="734" alt="image" src="https://github.com/user-attachments/assets/759b9cec-0b71-46b6-b979-00af856c636a" />
+
 
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
